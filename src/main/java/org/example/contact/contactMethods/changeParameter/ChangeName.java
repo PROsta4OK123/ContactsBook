@@ -1,4 +1,4 @@
-package org.example.contact.contactMethods.finder.changeParameter;
+package org.example.contact.contactMethods.changeParameter;
 
 import org.example.contact.Contact;
 import org.example.contact.contactMethods.finder.FindContactByName;

@@ -1,4 +1,4 @@
-package org.example.contact.contactMethods.finder.changeParameter;
+package org.example.contact.contactMethods.changeParameter;
 
 import java.util.ArrayList;
 
